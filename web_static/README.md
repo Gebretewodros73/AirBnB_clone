@@ -2,22 +2,6 @@
 
 This project aims to develop the web statics for the AirBnB application. The web statics include HTML, CSS, and image files that form the user interface of the application.
 
-## Project Structure
-
-The project is structured as follows:
-
-.
-├── css
-│   ├── styles.css
-│   └── ...
-├── images
-│   ├── logo.png
-│   └── ...
-└── index.html
-Certainly! Here's an example of the project structure in vi editor:
-
-vbnet
-
 # AirBnB Web Statics Project
 
 This project aims to develop the web statics for the AirBnB application. The web statics include HTML, CSS, and image files that form the user interface of the application.
